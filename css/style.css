@@ -12,12 +12,12 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #7695FF;
+    background: #7695FF;
 }
 
-.container {
-    min-width: 250px;
-}
+/* .container { */
+    /* min-width: 250px; */
+/* } */
 
 .box {
     width: 500px;
@@ -78,6 +78,7 @@ inputW {
      color: #fff;
      margin-bottom: 20px;
  }
+ 
 .inputW input {
      outline: none;
      border: none;
