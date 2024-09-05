@@ -323,3 +323,30 @@ border: 2px solid red;
 }
 
 /* Media query (responsive) */
+
+@media (max-width: 700px) {
+    .box {
+        width: 380px;
+    }
+
+    .input label {
+        font-size: 18px;
+    }
+
+    .inputH label, .inputW label {
+     font-size: 14px;
+ }
+
+ .input input, .inputH input, .inputW input {
+    font-family: 24px;
+ }
+
+ .modal-content {
+    width: 380px;
+ }
+}
+
+
+
+
+
