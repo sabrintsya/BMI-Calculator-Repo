@@ -132,4 +132,27 @@ inputW {
     background-color:#4f7df9 ;
  }
 
+ .result {
+    padding: 10px 20px;
+ }
+
+ .result p {
+    font-weight: 600;
+    font-size: 22px;
+    color: #7695FF;
+    margin-bottom: 15px;
+ }
+
+ .result #result {
+    font-size: 36px;
+    font-weight: 900;
+    color: #fff;
+    background-color: #7695FF;
+    display: inline-block;
+    padding: 7px 20px;
+    border-radius: 55px;
+    margin-bottom: 25px;
+ }
+
+ 
 
