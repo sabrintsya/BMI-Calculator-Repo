@@ -154,5 +154,15 @@ inputW {
     margin-bottom: 25px;
  }
 
- 
+ #comment {
+    color: #7695ff;
+    font-weight: 800;
+ }
+
+ .comment {
+    display: none;
+    border: dashed 1px;
+    border-radius: 7px;
+    padding: 5px;
+ }
 
