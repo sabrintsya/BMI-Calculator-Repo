@@ -78,7 +78,7 @@ inputW {
      color: #fff;
      margin-bottom: 20px;
  }
- 
+
 .inputW input {
      outline: none;
      border: none;
@@ -192,6 +192,12 @@ inputW {
 }
 
 /* end style for radio */
+
+.containerHW {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
 
  button.calculate {
     cursor: pointer;
