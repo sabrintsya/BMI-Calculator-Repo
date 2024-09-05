@@ -306,3 +306,20 @@ border: 2px solid red;
 .modal-correct {
   border: 2px solid green;
 }
+
+/*The Close button */
+.close{
+    color:#aaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s;
+
+}
+
+.close:hover {
+    color: #d41111;
+}
+
+/* Media query (responsive) */
