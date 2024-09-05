@@ -44,3 +44,23 @@ h1{
     padding: 20px 0;
     margin-bottom: 20px;
 }
+
+.input label {
+    display: block;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.input input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #9DBDFF;
+    width: 50%;
+    text-align: center;
+    font-size: 28px;
+    font-family: "Nunito", sans-serif;
+}
+
+
