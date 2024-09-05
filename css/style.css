@@ -166,3 +166,23 @@ inputW {
     padding: 5px;
  }
 
+ .footer {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 10px 15px;
+ }
+
+ .footer-text {
+    text-decoration: none;
+    color: rgba(40, 40, 40, 0.8);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 14px;
+    transition: all 0.5;
+ }
+
+ .footer-text:hover {
+    color: rgba(40, 40, 40, 1);
+ }
+
