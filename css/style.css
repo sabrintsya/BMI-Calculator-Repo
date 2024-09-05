@@ -253,7 +253,7 @@ inputW {
 
  .footer-text {
     text-decoration: none;
-    color: rgba(40, 40, 40, 0.8);
+    color: #2196F3;
     font-family: 'Poppins', sans-serif;
     font-weight: 200;
     font-size: 14px;
@@ -261,7 +261,7 @@ inputW {
  }
 
  .footer-text:hover {
-    color: rgba(40, 40, 40, 1);
+    color: #7695FF;
  }
 
 /* The Modal (background) */
@@ -280,3 +280,13 @@ inputW {
   padding-top: 300px;
 }
 
+/* modal content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: #393c76 -1px 2px 2px 1px;
+}
