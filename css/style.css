@@ -14,3 +14,15 @@ body {
     min-height: 100vh;
     background-color: #7695FF;
 }
+
+.container {
+    min-width: 250px;
+}
+
+.box {
+    width: 500px;
+    background-color: #9DBDFF;
+    text-align: center;
+    box-shadow: 2px 2px 20px 5px rgba(255, 255, 255, 0.829);
+}
+
