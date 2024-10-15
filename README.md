@@ -1,4 +1,5 @@
 # Kalkulator BMI
+![iPhone-13-PRO-bmitor netlify app](https://github.com/user-attachments/assets/5ae8d7fe-1cf3-4a6b-9727-61b2ae8bc155)
 
 # Deskripsi
 Aplikasi web sederhana ini dirancang untuk menghitung Indeks Massa Tubuh (BMI) pengguna berdasarkan berat badan (dalam kg) dan tinggi badan (dalam cm). Hasil perhitungan akan dikategorikan ke dalam:
