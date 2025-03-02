@@ -1,36 +1,55 @@
-# Kalkulator BMI
-![iPhone-13-PRO-bmitor netlify app](https://github.com/user-attachments/assets/5ae8d7fe-1cf3-4a6b-9727-61b2ae8bc155)
+# 📌 Kalkulator BMI
+![BMI Calculator](https://github.com/user-attachments/assets/5ae8d7fe-1cf3-4a6b-9727-61b2ae8bc155)
 
-# Deskripsi
-Aplikasi web sederhana ini dirancang untuk menghitung Indeks Massa Tubuh (BMI) pengguna berdasarkan berat badan (dalam kg) dan tinggi badan (dalam cm). Hasil perhitungan akan dikategorikan ke dalam:
-1. Underweight: Kurang berat badan
-2. Normal weight: Berat badan normal
-3. Overweight: Kelebihan berat badan
-4. Obesity: Obesitas
+## 📖 Deskripsi
+Kalkulator BMI adalah aplikasi web sederhana yang membantu pengguna menghitung **Indeks Massa Tubuh (BMI)** berdasarkan berat badan dan tinggi badan yang dimasukkan. Hasil perhitungan akan dikategorikan sebagai berikut:
 
-# Fitur
-Input: Pengguna memasukkan berat badan dan tinggi badan dalam satuan yang sesuai.
-Perhitungan: Aplikasi secara otomatis menghitung BMI menggunakan rumus standar.
-Output: Hasil perhitungan BMI dan kategori berat badan ditampilkan kepada pengguna.
+🔹 **Underweight** - Kurang berat badan
+🔹 **Normal weight** - Berat badan normal
+🔹 **Overweight** - Kelebihan berat badan
+🔹 **Obesity** - Obesitas
 
-# Cara Penggunaan
-# Clone repository:
-Bash
-git clone https: https://github.com/sabrintsya/BMI-Calculator-Repo.git
+Aplikasi ini memberikan informasi yang berguna untuk membantu pengguna dalam memantau status berat badan mereka.
 
-# Struktur Proyek
+---
+
+## ✨ Fitur
+✅ **Input Data**: Pengguna memasukkan berat badan (kg) dan tinggi badan (cm).
+✅ **Perhitungan Otomatis**: Sistem akan menghitung BMI berdasarkan rumus standar.
+✅ **Hasil & Kategori BMI**: Menampilkan hasil BMI serta kategori berat badan pengguna.
+✅ **Antarmuka Responsif**: Desain yang menarik dan mudah digunakan di berbagai perangkat.
+
+---
+
+## 🚀 Cara Penggunaan
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/sabrintsya/BMI-Calculator-Repo.git
+```
+
+### 2️⃣ Buka di Browser
+Buka file `index.html` di browser favorit Anda untuk mulai menggunakan kalkulator BMI.
+
+---
+
+## 📂 Struktur Proyek
+```
 BMI-Calculator
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── index.html   # Struktur utama aplikasi
+├── style.css    # Styling tampilan aplikasi
+├── script.js    # Logika perhitungan BMI & manipulasi DOM
+└── README.md    # Dokumentasi proyek
+```
 
-1. index.html: Berisi struktur HTML utama aplikasi.
-2. style.css: Berisi style CSS untuk tampilan aplikasi.
-3. script.js: Berisi logika JavaScript untuk perhitungan BMI dan manipulasi DOM.
-4. README.md: File ini (Anda sedang membaca ini).
+---
 
-# Teknologi yang Digunakan
-HTML: Struktur halaman web.
-CSS: Styling tampilan halaman web.
-JavaScript: Logika interaktif aplikasi.
+## 🛠 Teknologi yang Digunakan
+🟢 **HTML** - Struktur halaman web
+🟣 **CSS** - Styling dan tata letak
+🟡 **JavaScript** - Logika interaktif aplikasi
+
+---
+
+📌 **Dukung proyek ini dengan memberikan ⭐ di repository!** 😊
+
